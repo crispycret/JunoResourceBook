@@ -301,6 +301,9 @@ junod keys add <key-name> --recover
  Some resources that you should immediatley check out is:
  * Callum's Zero to Hero Course https://github.com/Callum-A/cosmwasm-zero-to-hero
  * Envoy Labs erc20 Tutorial https://docs.junonetwork.io/smart-contracts-and-junod-development/tutorial-erc-20
+ * https://github.com/cosmoscontracts/starter-kit
+ * https://github.com/envoylabs/whoami
+ * https://github.com/Callum-A/stake-native
  
  That's all I have for now. I will be constantly updating this page with more resources as I make my way through the 
 
