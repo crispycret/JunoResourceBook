@@ -30,6 +30,9 @@ As of now the `WSL2 Installation` steps aren't tested. They are built from resou
 
 https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
 
+CURRENT RESOURCE LIST (Will be complied into this section
+https://stackoverflow.com/questions/46413149/share-folder-between-windows-and-wsl
+
 
 
 
@@ -311,7 +314,10 @@ junod keys add <key-name> --recover
 
 
 
-
+Crediting Sources:
+ https://docs.junonetwork.io/juno/readme
+ 
+ 
 
 
  
