@@ -281,20 +281,23 @@ echo "word1 word2 word3 word4 word5 word6 word7 word8 word9 ... word24" >> ~/.ju
 
 You can check you seed phrase by running: `cat ~/.juno/seeds/resourcebook_seed.txt`
 
-
+```
 # Query the keystore for your public address
 junod keys show resourcebook -a
 ```
 
 If you already have a key from a previous testnet, you can recover it using the mnemonic:
+
 ```
 junod keys add <key-name> --recover
 ```
 
+
  One final step.
  
  #### Get some testnet tokens
- Testnet tokens can only be requested from the #faucet channel on Discord https://discord.gg/HnHKpzd3Db
+ Testnet tokens can only be requested from the #faucet channel on Discord https://discord.gg/HnHKpzd3Db.
+ 
  To request tokens type `$request <your-public-address>` in the message field and press enter.
  
  The offical documentation continues from here for the purpose of upgrading your node to become a validator, something we have no need for yet.
@@ -308,14 +311,14 @@ junod keys add <key-name> --recover
  * https://github.com/envoylabs/whoami
  * https://github.com/Callum-A/stake-native
  
- That's all I have for now. I will be constantly updating this page with more resources as I make my way through the 
+ That's all I have for now. I will be constantly updating this page with more resources as I learn more.
 
  
 
 
 
 Crediting Sources:
- https://docs.junonetwork.io/juno/readme
+* https://docs.junonetwork.io/juno/readme
  
  
 
